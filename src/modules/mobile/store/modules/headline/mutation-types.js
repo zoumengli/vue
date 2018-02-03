@@ -1,0 +1,6 @@
+// 查询组件types
+// 查询组件中的 查询信息
+export const FETCH_HEADLINE = 'FETCH_HEADLINE';
+export const FETCH_HEADLINE_LIST = 'FETCH_HEADLINE_LIST';
+export const FETCH_COMMENT = 'FETCH_COMMENT';
+export const ADD_HEADLINE_COMMENT = "ADD_HEADLINE_COMMENT";
